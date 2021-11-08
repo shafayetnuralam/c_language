@@ -7,6 +7,6 @@ int main(int argc, char const *argv[])
     printf("Enter Number b\n");
     scanf("%d", &b);
 
-    printf("The Sum Value %d \n", a + b);
+    printf("The Sum Of Value %d \n", a + b);
     return 0;
 }
